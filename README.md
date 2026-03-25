@@ -1,13 +1,8 @@
-coffee-sales-project/
-│
-├── data/
-│   └── coffee_sales.csv
-│
-├── sql/
-│   ├── 01_data_loading.sql
-│   ├── 02_data_cleaning.sql
-│   └── 03_analysis.sql   
-│
+sql/
+├── 01_data_loading.sql
+├── 02_data_cleaning.sql
+├── 03_city_product_analysis.sql
+├── 04_customer_analysis.sql   
 ├── README.md
 
 ## 🧹 Day 1: Data Cleaning
