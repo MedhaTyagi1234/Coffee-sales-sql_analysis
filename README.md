@@ -64,3 +64,27 @@ Insight:
 - Beverage items dominate top-selling products
 - Discounts impact revenue significantly
 - Certain products perform consistently across multiple cities
+
+## 📊 Day 3: Customer Analysis
+
+### 🔹 Objective
+Analyze customer behavior across cities to understand spending patterns and preferences.
+
+### 🔹 Tasks Performed
+- Analyzed transactions by payment method across age groups and cities
+- Identified top payment method per age group using window functions (RANK)
+- Calculated revenue contribution of each customer age group
+- Compared revenue from loyalty vs non-loyalty customers
+- Calculated average customer spending per city
+- Analyzed revenue distribution by gender
+- Counted unique customers in each city
+- Identified top customers based on total spending
+
+### 🛠️ Skills Used
+SQL | GROUP BY | Aggregations | Window Functions (RANK) | Customer Analysis
+
+### 💡 Key Insights
+- Payment preferences vary across age groups and cities
+- Loyalty customers contribute significantly to total revenue
+- A small group of customers drives a large portion of revenue
+- Customer spending patterns differ across cities
