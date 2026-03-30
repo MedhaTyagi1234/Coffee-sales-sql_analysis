@@ -83,3 +83,60 @@ SQL | GROUP BY | Aggregations | Window Functions (RANK) | Customer Analysis
 - Loyalty customers contribute significantly to total revenue
 - A small group of customers drives a large portion of revenue
 - Customer spending patterns differ across cities
+## 📅 Day 4 — Store Analysis
+
+Focused on analyzing store-level performance across different cities and store types.
+
+### 🔹 Key Analysis Performed
+
+- Total number of stores in each city  
+- Transactions by store type in each city  
+- Store distribution by city, country, and type  
+- Product category availability across store types  
+- Number of unique products per store type  
+- Total quantity sold by store type  
+
+### 🔹 Business Insights
+
+- Classified store types as **Premium** or **Cheap** based on average revenue per unit  
+- Identified top 3 payment methods per store type  
+- Analyzed daily transaction trends per store type  
+- Evaluated monthly revenue performance  
+- Ranked store types based on monthly revenue  
+
+### 📊 Focus Area
+Understanding how store types contribute to:
+- Sales volume  
+- Revenue generation  
+- Customer payment behavior  
+## 📌 Final Conclusion
+
+This project analyzed coffee shop sales data from multiple perspectives including city performance, product trends, customer behavior, and store-level insights.
+
+### 🔹 Key Findings
+
+- Sales are concentrated in specific cities, indicating strong demand clusters  
+- Certain products consistently drive higher sales across locations  
+- Customer segments (age group, loyalty members) show different spending behaviors  
+- Discounts influence transaction value but vary across products  
+- Store types differ in performance, with some generating higher revenue per unit (Premium vs Cheap)  
+
+### 🔹 Store-Level Insights
+
+- Store type plays a significant role in revenue generation and product distribution  
+- Payment method preferences vary across store types  
+- Monthly revenue trends highlight performance differences between store categories  
+
+### 🔹 Overall Understanding
+
+The analysis highlights how:
+- Location  
+- Product mix  
+- Customer behavior  
+- Store strategy  
+
+collectively impact business performance.
+
+### 🚀 Final Note
+
+This project demonstrates end-to-end analysis using SQL — from data cleaning to extracting meaningful business insights.
